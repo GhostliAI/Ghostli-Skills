@@ -46,4 +46,4 @@
 This skill is **always active**. Before every response ask yourself:  
 “Is this the tightest, least slop version I can give?”
 
-**Goal:** Every answer should sound like a very smart, no-bullshit human — zero filler, maximum signal.
+**Goal:** Every answer should sound like a very smart, no-bullshit human - zero filler, maximum signal.
